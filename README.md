@@ -23,10 +23,13 @@ WahMorph plugin serves as a versatile tool for guitarists, allowing them to add 
 
 
 ## What Worked and What Did Not
-I was able to implement gain,release and sensitivity. Although in the proposal I proposed to do a dynamic cutoff frequency, it proved to be much difficult and was giving me not compiling but runtime errors. For the most part things do what they are supposed to do. Not a huge GUI person and this was my first time coding with JUCE framework so that's a learning curve. Some calculations could be a bit better and future improvements could be that dynamic cutoff frequency now its just a constant value.
+I was able to implement gain,release and sensitivity. Although in the proposal I proposed to do a dynamic cutoff frequency, it proved to be much difficult and was giving me not compiling but runtime errors. For the most part things do what they are supposed to do. Not a huge GUI person and this was my first time coding with JUCE framework so that's a learning curve. Some calculations could be a bit better and future improvements could be that dynamic cutoff frequency now its just a constant value. The plugin is a hit and miss in some cases. I'm not sure but I'm very happy that it works when it works.
 
 
 ## Reflection
 The AutoWahProject achieved its intended function of implementing an auto-wah effect using C++ and the JUCE framework. The project successfully responds to the dynamics of the input signal, creating a recognizable "wah" effect. However, there are areas for improvement, such as optimizing filter calculations for better performance and adding more user interface controls for enhanced usability. Overall, I am satisfied with the result after a lot of laborious work, but there is room for further refinement and expansion in future iterations.
+
+## References
+I had a lot of references from the JUCE form to Youtube Tutorials. Most of the debugging was done through JUCE forum and some referencing was taken from Juce Plugins already built.
 
 ![Screenshot 2024-03-18 084202](https://github.com/KrishnaSaiPanthala/WahMorph/assets/128883221/6e643745-af0e-4eb5-ae12-e86ec5d85e5c)
