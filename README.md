@@ -29,3 +29,4 @@ I was able to implement gain,release and sensitivity. Although in the proposal I
 ## Reflection
 The AutoWahProject achieved its intended function of implementing an auto-wah effect using C++ and the JUCE framework. The project successfully responds to the dynamics of the input signal, creating a recognizable "wah" effect. However, there are areas for improvement, such as optimizing filter calculations for better performance and adding more user interface controls for enhanced usability. Overall, I am satisfied with the result after a lot of laborious work, but there is room for further refinement and expansion in future iterations.
 
+![Screenshot 2024-03-18 084202](https://github.com/KrishnaSaiPanthala/WahMorph/assets/128883221/6e643745-af0e-4eb5-ae12-e86ec5d85e5c)
